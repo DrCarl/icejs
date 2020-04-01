@@ -6,4 +6,4 @@ export default [
     exact: true,
     component: Home
   },
-]
+];

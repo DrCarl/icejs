@@ -9,4 +9,4 @@ module.exports = ({ onGetWebpackConfig }) => {
         renderer: 'react',
       });
   });
-}
+};
